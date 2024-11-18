@@ -1,0 +1,11 @@
+flask
+shap  # Optional, for explainability
+lime  # Optional, for explainability
+scikit-learn  # Assuming your model is from scikit-learn
+# Add any other dependencies your model or API needs
+pandas 
+numpy 
+matplotlib
+seaborn
+sklearn
+mlflow
